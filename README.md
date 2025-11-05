@@ -12,3 +12,4 @@
 1. [P2240 【深基12.例1】部分背包问题](https://www.luogu.com.cn/problem/P2240)
 2. [P1094 [NOIP 2007 普及组] 纪念品分组](https://www.luogu.com.cn/problem/P1094)
 3. [P2949 [USACO09OPEN] Work Scheduling G](https://www.luogu.com.cn/problem/P2949)
+4. [P2678 [NOIP 2015 提高组] 跳石头](https://www.luogu.com.cn/problem/P2678)
