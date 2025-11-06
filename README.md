@@ -14,3 +14,6 @@
 3. [P2949 [USACO09OPEN] Work Scheduling G](https://www.luogu.com.cn/problem/P2949)
 4. [P2678 [NOIP 2015 提高组] 跳石头](https://www.luogu.com.cn/problem/P2678)
 5. [P3853 [TJOI2007] 路标设置](https://www.luogu.com.cn/problem/P3853)
+6. [P1873 [COCI 2011/2012 #5] EKO / 砍树](https://www.luogu.com.cn/problem/P1873)
+7. [P2440 木材加工](https://www.luogu.com.cn/problem/P2440)
+8. [P1080 [NOIP 2012 提高组] 国王游戏](https://www.luogu.com.cn/problem/P1080)
